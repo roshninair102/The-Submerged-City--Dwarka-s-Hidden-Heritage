@@ -1,0 +1,5222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &37369897216088501
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9130776077140938172}
+  m_Layer: 0
+  m_Name: squidShark_rig_Lwing_phy_skele3_027
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9130776077140938172
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 37369897216088501}
+  serializedVersion: 2
+  m_LocalRotation: {x: 3.402142e-18, y: 0.04461464, z: -1.5845159e-18, w: -0.99900424}
+  m_LocalPosition: {x: 2.25, y: 1.2212453e-14, z: 1.0214052e-14}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2153041545916186317}
+  m_Father: {fileID: 3318331476724833289}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &72815322725349622
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2941722906637223050}
+  m_Layer: 0
+  m_Name: squidShark_rig_spine_phy4_skele_0116
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2941722906637223050
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 72815322725349622}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.007364228, y: 1.9716449e-31, z: 7.615146e-33, w: -0.9999729}
+  m_LocalPosition: {x: -6.3108872e-30, y: 4.1633363e-15, z: 2.35}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7203612327097290335}
+  m_Father: {fileID: 7585907762162463542}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &174366906561830560
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8879837898478186548}
+  m_Layer: 0
+  m_Name: model
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8879837898478186548
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 174366906561830560}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 0, y: -0.7, z: 4}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 385033404062629657}
+  m_Father: {fileID: 5027429092576779482}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &267102715147898551
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 966990177664657500}
+  m_Layer: 0
+  m_Name: squidShark_rig_Rtent_skele3_089
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &966990177664657500
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 267102715147898551}
+  serializedVersion: 2
+  m_LocalRotation: {x: 5.551115e-17, y: 3.3087225e-24, z: 1.83671e-40, w: -1}
+  m_LocalPosition: {x: -2.220446e-16, y: -0.0000031023535, z: -2.5750024}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7651438115799201788}
+  m_Father: {fileID: 4632913986838274537}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &304440940743802212
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4900749914062322257}
+  m_Layer: 0
+  m_Name: squidShark_rig_upper_right_gum2_skele_045
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4900749914062322257
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 304440940743802212}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.880796, y: 0.3930933, z: -0.21154328, w: -0.15787823}
+  m_LocalPosition: {x: -0.86495703, y: -0.038690343, z: -0.79454565}
+  m_LocalScale: {x: 0.9999999, y: 0.9999995, z: 1.0000006}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4353692867515161179}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &332350051877327835
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6389664693841798908}
+  m_Layer: 0
+  m_Name: squidShark_rig_R_wing4_skele_0103
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6389664693841798908
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 332350051877327835}
+  serializedVersion: 2
+  m_LocalRotation: {x: -1.2663481e-16, y: -1.9428903e-15, z: 3.8163916e-17, w: -1}
+  m_LocalPosition: {x: -0.21215768, y: -0.012993065, z: 0.056113705}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2116874301484801248}
+  m_Father: {fileID: 370494297827271300}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &350367816187570471
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4353692867515161179}
+  m_Layer: 0
+  m_Name: squidShark_rig_upper_jaw_base_skele_041
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4353692867515161179
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350367816187570471}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.17178272, y: -9.7861456e-32, z: 1.2811998e-32, w: -0.98513484}
+  m_LocalPosition: {x: -8.6736174e-19, y: 0.6741871, z: -1.8142017}
+  m_LocalScale: {x: 1, y: 0.9999997, z: 1.0000002}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 576258239208928054}
+  - {fileID: 6636899523417960773}
+  - {fileID: 4919643653563586370}
+  - {fileID: 4900749914062322257}
+  m_Father: {fileID: 8425253378059584740}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &390732836376937243
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4594048593482093318}
+  m_Layer: 0
+  m_Name: squidShark_rig_L_lowerLip2_skele_048
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4594048593482093318
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 390732836376937243}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.027637878, y: -4.746714e-18, z: -1.661741e-17, w: -0.999618}
+  m_LocalPosition: {x: -1.110223e-16, y: -8.881784e-16, z: -1.1525644}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4955615328652505183}
+  m_Father: {fileID: 8737427648242719125}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &451543829540608600
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5625983661965597462}
+  m_Layer: 0
+  m_Name: squidShark_rig_L_wing2_skele_024
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5625983661965597462
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 451543829540608600}
+  serializedVersion: 2
+  m_LocalRotation: {x: 3.1027664e-17, y: -5.107026e-15, z: 1.4960165e-14, w: -1}
+  m_LocalPosition: {x: 0.21568006, y: -0.004762116, z: -0.0008784935}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8261471718031426920}
+  m_Father: {fileID: 3383052142664428083}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &475160404941557745
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1029521462772575074}
+  m_Layer: 0
+  m_Name: squidShark_rig_Rtent_skele2_087
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1029521462772575074
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 475160404941557745}
+  serializedVersion: 2
+  m_LocalRotation: {x: -2.7755576e-17, y: -3.3087225e-24, z: 1.6543612e-24, w: -1}
+  m_LocalPosition: {x: -2.220446e-16, y: -0.0000031023535, z: -2.5750024}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4632913986838274537}
+  m_Father: {fileID: 2339797453684757480}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &523153094087864847
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2116874301484801248}
+  m_Layer: 0
+  m_Name: squidShark_rig_Rwing_skele4_0104
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2116874301484801248
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 523153094087864847}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000024710781, y: -2.4980018e-16, z: 1.7347173e-18, w: -1}
+  m_LocalPosition: {x: -2.2499945, y: 0.00000021166348, z: -0.00000183769}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 770411852792021077}
+  m_Father: {fileID: 6389664693841798908}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &602733966357480819
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2695138778018812766}
+  m_Layer: 0
+  m_Name: squidShark_rig_Rtube2_skele_093
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2695138778018812766
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 602733966357480819}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.99306846, y: -7.19709e-18, z: 0.117537394, w: 6.0807906e-17}
+  m_LocalPosition: {x: -1.93639, y: -0.23861448, z: -1.1673385}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5324757300673405616}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &696402772564642454
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5434641263600477039}
+  m_Layer: 0
+  m_Name: squidShark_rig_L_wing5_skele_028
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5434641263600477039
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 696402772564642454}
+  serializedVersion: 2
+  m_LocalRotation: {x: -9.1940344e-17, y: -2.747802e-15, z: -1.5543122e-15, w: -1}
+  m_LocalPosition: {x: 0.21610227, y: 0.005675497, z: 0.029127575}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7378497493987191448}
+  m_Father: {fileID: 1374693616492309430}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &712479442645540652
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2475114716633715476}
+  - component: {fileID: 529811491168368070}
+  m_Layer: 0
+  m_Name: Object_10
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2475114716633715476
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 712479442645540652}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1846912631129153114}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &529811491168368070
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 712479442645540652}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 98d80cc203bdfcd4c898b8edf6aac098, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300000, guid: d5028f3af18eb8149acd294c999c6d6f, type: 2}
+  m_Bones:
+  - {fileID: 3792782067659154354}
+  - {fileID: 5345673834293484227}
+  - {fileID: 5324757300673405616}
+  - {fileID: 5527692233450683912}
+  - {fileID: 1553516186686553402}
+  - {fileID: 4172419570722439125}
+  - {fileID: 3498955131697834548}
+  - {fileID: 6060589330279147999}
+  - {fileID: 52768847827544165}
+  - {fileID: 7096020054084290574}
+  - {fileID: 2698575657485452955}
+  - {fileID: 99972780023478559}
+  - {fileID: 112101252236577617}
+  - {fileID: 6370502965823021166}
+  - {fileID: 921969953768425582}
+  - {fileID: 643238445619393726}
+  - {fileID: 6824599183893210848}
+  - {fileID: 5516483181713425518}
+  - {fileID: 1886337749763209327}
+  - {fileID: 1788079730929996479}
+  - {fileID: 3317750447864464992}
+  - {fileID: 456756133574153764}
+  - {fileID: 3383052142664428083}
+  - {fileID: 5625983661965597462}
+  - {fileID: 8261471718031426920}
+  - {fileID: 3318331476724833289}
+  - {fileID: 9130776077140938172}
+  - {fileID: 2153041545916186317}
+  - {fileID: 1374693616492309430}
+  - {fileID: 5434641263600477039}
+  - {fileID: 7378497493987191448}
+  - {fileID: 2938031068124817306}
+  - {fileID: 6743078179915128127}
+  - {fileID: 4414406854654935959}
+  - {fileID: 8399274457512976352}
+  - {fileID: 6741329245816777461}
+  - {fileID: 8425253378059584740}
+  - {fileID: 3359810412632756496}
+  - {fileID: 5142298324359507518}
+  - {fileID: 3142850626734217133}
+  - {fileID: 4892591868171119503}
+  - {fileID: 1991438736097837970}
+  - {fileID: 730648861530572673}
+  - {fileID: 4353692867515161179}
+  - {fileID: 576258239208928054}
+  - {fileID: 6636899523417960773}
+  - {fileID: 4919643653563586370}
+  - {fileID: 4900749914062322257}
+  - {fileID: 4516556003713881399}
+  - {fileID: 8737427648242719125}
+  - {fileID: 4594048593482093318}
+  - {fileID: 4955615328652505183}
+  - {fileID: 2174288649293932883}
+  - {fileID: 5941372757340609191}
+  - {fileID: 6525395701917419589}
+  - {fileID: 2994134001578843222}
+  - {fileID: 3548672209963295951}
+  - {fileID: 3569999673161349867}
+  - {fileID: 7289855048352245607}
+  - {fileID: 5033336322556605428}
+  - {fileID: 8452957984058731726}
+  - {fileID: 777518972273502697}
+  - {fileID: 4155150687635069748}
+  - {fileID: 2895573346831672916}
+  - {fileID: 3800745900210006407}
+  - {fileID: 3662280635789855001}
+  - {fileID: 2902557802313982945}
+  - {fileID: 2286199033284027477}
+  - {fileID: 7615754308163590046}
+  - {fileID: 3207338007574602693}
+  - {fileID: 8466447023517728788}
+  - {fileID: 7578341387610452166}
+  - {fileID: 7381709429400333013}
+  - {fileID: 4920854871337591153}
+  - {fileID: 2489999029430941093}
+  - {fileID: 5530560212718246486}
+  - {fileID: 5530601525827207021}
+  - {fileID: 1702340132776950365}
+  - {fileID: 2758058806082735128}
+  - {fileID: 2733899669350733865}
+  - {fileID: 7132673684695785610}
+  - {fileID: 6969509795289847126}
+  - {fileID: 8596629040409925322}
+  - {fileID: 5890829958627669206}
+  - {fileID: 7013075775624279610}
+  - {fileID: 2089785800681424417}
+  - {fileID: 3990304830394111321}
+  - {fileID: 7357616228472869181}
+  - {fileID: 2339797453684757480}
+  - {fileID: 1029521462772575074}
+  - {fileID: 4632913986838274537}
+  - {fileID: 966990177664657500}
+  - {fileID: 7651438115799201788}
+  - {fileID: 5630141665850651052}
+  - {fileID: 7445155261715527188}
+  - {fileID: 2695138778018812766}
+  - {fileID: 2551923421477145604}
+  - {fileID: 4268831710605967773}
+  - {fileID: 5155874952053699318}
+  - {fileID: 3109956887892408286}
+  - {fileID: 110884599453975260}
+  - {fileID: 7943594747143531692}
+  - {fileID: 5081645620160145140}
+  - {fileID: 7009488241509566896}
+  - {fileID: 370494297827271300}
+  - {fileID: 6389664693841798908}
+  - {fileID: 2116874301484801248}
+  - {fileID: 770411852792021077}
+  - {fileID: 1096656248786094934}
+  - {fileID: 7996431437242953652}
+  - {fileID: 8364800710875885716}
+  - {fileID: 714035341058140005}
+  - {fileID: 3215957127198537289}
+  - {fileID: 8496432385055452022}
+  - {fileID: 2782144514435020620}
+  - {fileID: 2492746504855488949}
+  - {fileID: 1169581084427801567}
+  - {fileID: 7585907762162463542}
+  - {fileID: 2941722906637223050}
+  - {fileID: 7203612327097290335}
+  - {fileID: 9138850083393056392}
+  - {fileID: 2154435369188605911}
+  - {fileID: 4648859416881624642}
+  - {fileID: 506756363962904063}
+  - {fileID: 4270714636632383575}
+  - {fileID: 1578492668049047044}
+  - {fileID: 8772250322607023389}
+  - {fileID: 2978045966385814013}
+  - {fileID: 7331855125211381720}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 0}
+  m_AABB:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_DirtyAABB: 0
+--- !u!1 &780948572849026047
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6969509795289847126}
+  m_Layer: 0
+  m_Name: squidShark_rig_R_upperLipTip_skele_079
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6969509795289847126
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 780948572849026047}
+  serializedVersion: 2
+  m_LocalRotation: {x: -1.4444475e-34, y: 6.938894e-18, z: -2.0816682e-17, w: -1}
+  m_LocalPosition: {x: -1.1657342e-15, y: 6.661338e-16, z: 0.53085256}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7132673684695785610}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &782693815129929534
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5081645620160145140}
+  m_Layer: 0
+  m_Name: squidShark_rig_Rwing_skele2_0100
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5081645620160145140
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 782693815129929534}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000010534112, y: 2.340178e-10, z: -0.022209752, w: -0.99975336}
+  m_LocalPosition: {x: -2.2500043, y: 4.6629367e-15, z: -0.000003975527}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7009488241509566896}
+  m_Father: {fileID: 7943594747143531692}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &913084591829271547
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7096020054084290574}
+  m_Layer: 0
+  m_Name: squidShark_rig_Ltent_skele1_010
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7096020054084290574
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 913084591829271547}
+  serializedVersion: 2
+  m_LocalRotation: {x: 2.7755576e-17, y: -2.524355e-29, z: 1.2621775e-29, w: -1}
+  m_LocalPosition: {x: -1.110223e-16, y: 0, z: 2.575}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2698575657485452955}
+  m_Father: {fileID: 52768847827544165}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &948960465087148301
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2938031068124817306}
+  m_Layer: 0
+  m_Name: squidShark_rig_L_wing6_skele_030
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2938031068124817306
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 948960465087148301}
+  serializedVersion: 2
+  m_LocalRotation: {x: -3.4174052e-16, y: -5.3845817e-15, z: -2.5621866e-15, w: -1}
+  m_LocalPosition: {x: -0.42943853, y: 0.0059094364, z: -0.01362223}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6743078179915128127}
+  m_Father: {fileID: 7378497493987191448}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1023555297557597686
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2551923421477145604}
+  m_Layer: 0
+  m_Name: squidShark_rig_Rtube3_skele_094
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2551923421477145604
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1023555297557597686}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.99306846, y: -7.19709e-18, z: 0.117537394, w: 6.0807906e-17}
+  m_LocalPosition: {x: -1.79768, y: -0.23861448, z: -1.7451185}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5324757300673405616}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1044414948485059574
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3317750447864464992}
+  m_Layer: 0
+  m_Name: squidShark_rig_Lwing_phy_skele_021
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3317750447864464992
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1044414948485059574}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0.38543776, z: -0, w: -0.92273384}
+  m_LocalPosition: {x: 1.8140801, y: -0.9417737, z: 2.2040794}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 456756133574153764}
+  m_Father: {fileID: 5324757300673405616}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1086299667885654740
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9138850083393056392}
+  m_Layer: 0
+  m_Name: squidShark_rig_spine_phy5_skele_0118
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9138850083393056392
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1086299667885654740}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.007364228, y: -3.946013e-31, z: 2.1746559e-32, w: -0.9999729}
+  m_LocalPosition: {x: 0, y: -1.926237e-14, z: 2.35}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2154435369188605911}
+  m_Father: {fileID: 7203612327097290335}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1121956929723131443
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3109182512794303030}
+  m_Layer: 0
+  m_Name: Object_9
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3109182512794303030
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1121956929723131443}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 149.83994, y: -0.7, z: 3.37}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1846912631129153114}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1181374620262773885
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7445155261715527188}
+  m_Layer: 0
+  m_Name: squidShark_rig_R_tent5_skele_092
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7445155261715527188
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1181374620262773885}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000072079955, y: 0.000000007207995, z: -4.5336634e-16, w: -1}
+  m_LocalPosition: {x: -2.3314684e-15, y: 0.0000012851997, z: -0.34332976}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5630141665850651052}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1200373477631471242
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 110884599453975260}
+  m_Layer: 0
+  m_Name: squidShark_rig_Rwing_skele1_098
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &110884599453975260
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1200373477631471242}
+  serializedVersion: 2
+  m_LocalRotation: {x: -1.435e-42, y: -2.7755576e-17, z: 5.169879e-26, w: -1}
+  m_LocalPosition: {x: -2.2499971, y: -9.103829e-15, z: 0.0000030532274}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7943594747143531692}
+  m_Father: {fileID: 3109956887892408286}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1244223242071446128
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5890829958627669206}
+  m_Layer: 0
+  m_Name: BiteTarget_081
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5890829958627669206
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1244223242071446128}
+  serializedVersion: 2
+  m_LocalRotation: {x: -2.4696561e-10, y: 5.5507043e-16, z: 2.8297677e-17, w: -1}
+  m_LocalPosition: {x: 1.5777218e-30, y: 0, z: 3}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8596629040409925322}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1380845555208707525
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 506756363962904063}
+  m_Layer: 0
+  m_Name: squidShark_rig_spine6_skele_0121
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &506756363962904063
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1380845555208707525}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000000034044496, y: 2.7771839e-16, z: -3.7296555e-17, w: -1}
+  m_LocalPosition: {x: 3.039764e-16, y: -0.00017673257, z: 0.19676468}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4270714636632383575}
+  m_Father: {fileID: 4648859416881624642}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1383622071623543201
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4632913986838274537}
+  m_Layer: 0
+  m_Name: squidShark_rig_R_tent3_skele_088
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4632913986838274537
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1383622071623543201}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000072079955, y: 0.000000007207995, z: -4.5336634e-16, w: -1}
+  m_LocalPosition: {x: 3.330669e-16, y: -0.0000020880339, z: -0.34333545}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 966990177664657500}
+  m_Father: {fileID: 1029521462772575074}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1461019639830866368
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3792782067659154354}
+  m_Layer: 0
+  m_Name: _rootJoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3792782067659154354
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1461019639830866368}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5345673834293484227}
+  m_Father: {fileID: 1846912631129153114}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1466563970146339744
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8261471718031426920}
+  m_Layer: 0
+  m_Name: squidShark_rig_Lwing_phy_skele2_025
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8261471718031426920
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1466563970146339744}
+  serializedVersion: 2
+  m_LocalRotation: {x: 5.819331e-18, y: -2.7633146e-17, z: -0.022209752, w: -0.99975336}
+  m_LocalPosition: {x: 2.25, y: 3.319567e-14, z: 1.110223e-14}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3318331476724833289}
+  m_Father: {fileID: 5625983661965597462}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1481774332181533147
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2902557802313982945}
+  m_Layer: 0
+  m_Name: squidShark_rig_mouthFin2_skele_064
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2902557802313982945
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1481774332181533147}
+  serializedVersion: 2
+  m_LocalRotation: {x: 8.326673e-17, y: 4.9303807e-32, z: -9.8607613e-32, w: -1}
+  m_LocalPosition: {x: -7.888609e-31, y: 0, z: 0.43824553}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2286199033284027477}
+  m_Father: {fileID: 3662280635789855001}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1570700532382891381
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8027513228846777521}
+  m_Layer: 0
+  m_Name: RootNode
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8027513228846777521
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1570700532382891381}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5027429092576779482}
+  m_Father: {fileID: 8641603734094090114}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1717900696107038237
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2758058806082735128}
+  m_Layer: 0
+  m_Name: squidShark_rig_R_upperLip1_skele_076
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2758058806082735128
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1717900696107038237}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.82426137, y: 0.5547602, z: 0.085854754, w: 0.073913895}
+  m_LocalPosition: {x: -1.1512799, y: 0.4455355, z: -1.4966085}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2733899669350733865}
+  m_Father: {fileID: 6741329245816777461}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1954995699012013726
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4955615328652505183}
+  m_Layer: 0
+  m_Name: squidShark_rig_L_lowerLip3_skele_049
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4955615328652505183
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1954995699012013726}
+  serializedVersion: 2
+  m_LocalRotation: {x: -4.6643616e-34, y: -8.673617e-18, z: 5.3776428e-17, w: -1}
+  m_LocalPosition: {x: -1.8041124e-16, y: 3.330669e-16, z: -1.1191432}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2174288649293932883}
+  m_Father: {fileID: 4594048593482093318}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1959748466570112490
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 643238445619393726}
+  m_Layer: 0
+  m_Name: squidShark_rig_Ltent_skele4_016
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &643238445619393726
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1959748466570112490}
+  serializedVersion: 2
+  m_LocalRotation: {x: 2.7755576e-17, y: 2.019484e-28, z: 5.04871e-29, w: -1}
+  m_LocalPosition: {x: 2.220446e-16, y: 1.7763568e-15, z: 2.575}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6824599183893210848}
+  m_Father: {fileID: 921969953768425582}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2107299337054170567
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3142850626734217133}
+  m_Layer: 0
+  m_Name: squidShark_rig_lower_letf_gum1_skele_038
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3142850626734217133
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2107299337054170567}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.15466659, y: 0.07865699, z: 0.20909314, w: -0.962378}
+  m_LocalPosition: {x: -0.44289795, y: -0.49411124, z: 0.9689527}
+  m_LocalScale: {x: 1, y: 0.99999976, z: 1.0000002}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3359810412632756496}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2131028898543628932
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6525395701917419589}
+  m_Layer: 0
+  m_Name: squidShark_rig_L_midLip2_skele_052
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6525395701917419589
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2131028898543628932}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.027637878, y: 7.0800754e-18, z: -5.0104063e-18, w: -0.999618}
+  m_LocalPosition: {x: 9.436896e-16, y: 2.220446e-16, z: -1.1525644}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2994134001578843222}
+  m_Father: {fileID: 5941372757340609191}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2370832803854696960
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2733899669350733865}
+  m_Layer: 0
+  m_Name: squidShark_rig_R_upperLip2_skele_077
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2733899669350733865
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2370832803854696960}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.027637878, y: -2.1976036e-18, z: -4.60485e-17, w: -0.999618}
+  m_LocalPosition: {x: -0.0000022956049, y: -0.000000275073, z: 1.1525645}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7132673684695785610}
+  m_Father: {fileID: 2758058806082735128}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2432214351360972523
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1788079730929996479}
+  m_Layer: 0
+  m_Name: squidShark_rig_Ltube_skele_020
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1788079730929996479
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2432214351360972523}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0.117537394, z: -0, w: -0.99306846}
+  m_LocalPosition: {x: 2.0775125, y: -0.23861448, z: -0.5795246}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5324757300673405616}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2439657149427885476
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3800745900210006407}
+  m_Layer: 0
+  m_Name: squidShark_rig_midLipTip_skele_062
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3800745900210006407
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2439657149427885476}
+  serializedVersion: 2
+  m_LocalRotation: {x: 2.7755576e-17, y: 0, z: -2.4651903e-32, w: -1}
+  m_LocalPosition: {x: 7.888609e-31, y: -4.440892e-16, z: -0.5308567}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2895573346831672916}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2466232446077917087
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7381709429400333013}
+  m_Layer: 0
+  m_Name: squidShark_rig_R_lowerLip3_skele_070
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7381709429400333013
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2466232446077917087}
+  serializedVersion: 2
+  m_LocalRotation: {x: 2.7755576e-17, y: -1.0408341e-17, z: 1.7347235e-18, w: -1}
+  m_LocalPosition: {x: 0.00000006214139, y: 0.0000007026436, z: 1.1191438}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4920854871337591153}
+  m_Father: {fileID: 7578341387610452166}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2539439415168026515
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7289855048352245607}
+  m_Layer: 0
+  m_Name: squidShark_rig_L_upperLip2_skele_056
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7289855048352245607
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2539439415168026515}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.027637878, y: 3.8516743e-18, z: -1.3776598e-17, w: -0.999618}
+  m_LocalPosition: {x: -2.0539126e-15, y: -1.7763568e-15, z: -1.1525644}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5033336322556605428}
+  m_Father: {fileID: 3569999673161349867}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2619596946883830082
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7132673684695785610}
+  m_Layer: 0
+  m_Name: squidShark_rig_R_upperLip3_skele_078
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7132673684695785610
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2619596946883830082}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.046773378, y: 7.0935775e-18, z: -3.1410943e-18, w: -0.99890554}
+  m_LocalPosition: {x: 0.000002805026, y: -0.0000034491306, z: 1.1191474}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6969509795289847126}
+  m_Father: {fileID: 2733899669350733865}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2625914791811083624
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6741329245816777461}
+  m_Layer: 0
+  m_Name: squidShark_rig_head_skele_034
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6741329245816777461
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2625914791811083624}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 8.136591e-33, w: -1}
+  m_LocalPosition: {x: -1.5777218e-30, y: 4.7767346e-14, z: -1.75}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8425253378059584740}
+  - {fileID: 4516556003713881399}
+  - {fileID: 8737427648242719125}
+  - {fileID: 5941372757340609191}
+  - {fileID: 3569999673161349867}
+  - {fileID: 777518972273502697}
+  - {fileID: 3207338007574602693}
+  - {fileID: 8466447023517728788}
+  - {fileID: 2489999029430941093}
+  - {fileID: 2758058806082735128}
+  - {fileID: 8596629040409925322}
+  - {fileID: 7013075775624279610}
+  m_Father: {fileID: 8399274457512976352}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2680496821307903258
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8737427648242719125}
+  m_Layer: 0
+  m_Name: squidShark_rig_L_lowerLip1_skele_047
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8737427648242719125
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2680496821307903258}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.016662873, y: 0.1670158, z: -0.9674044, w: 0.1896227}
+  m_LocalPosition: {x: 0.45551214, y: -1.1310444, z: -1.5557646}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4594048593482093318}
+  m_Father: {fileID: 6741329245816777461}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2720432963136624049
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8772250322607023389}
+  m_Layer: 0
+  m_Name: squidShark_rig_spine_phy8_skele_0124
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8772250322607023389
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2720432963136624049}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.007364228, y: -3.946013e-31, z: 2.1746559e-32, w: -0.9999729}
+  m_LocalPosition: {x: 0, y: 5.995204e-14, z: 2.35}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2978045966385814013}
+  m_Father: {fileID: 1578492668049047044}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2871914762073714023
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6060589330279147999}
+  m_Layer: 0
+  m_Name: squidShark_rig_Ltent_skele_08
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6060589330279147999
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2871914762073714023}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.26216194, y: 5.3328094e-32, z: 8.23566e-33, w: -0.9650239}
+  m_LocalPosition: {x: 0.7880857, y: -1.48784, z: 1.2272398}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 52768847827544165}
+  m_Father: {fileID: 5324757300673405616}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2894436359658227635
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 385033404062629657}
+  m_Layer: 0
+  m_Name: Squid_Shark
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &385033404062629657
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2894436359658227635}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1846912631129153114}
+  m_Father: {fileID: 8879837898478186548}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2954242457670254138
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4516556003713881399}
+  m_Layer: 0
+  m_Name: squidShark_rig_L_eye_skele_046
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4516556003713881399
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2954242457670254138}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.06168448, y: -0.05678988, z: 0.73310184, w: -0.6749309}
+  m_LocalPosition: {x: 1.3249334, y: -0.34233624, z: -0.82958174}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6741329245816777461}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3076648486535647168
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7578341387610452166}
+  m_Layer: 0
+  m_Name: squidShark_rig_R_lowerLip2_skele_069
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7578341387610452166
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3076648486535647168}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.027637878, y: -6.121194e-18, z: -2.967081e-17, w: -0.999618}
+  m_LocalPosition: {x: 0.00000036334163, y: 0.0000009377471, z: 1.15256}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7381709429400333013}
+  m_Father: {fileID: 8466447023517728788}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3083389416052661135
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8452957984058731726}
+  m_Layer: 0
+  m_Name: squidShark_rig_L_upperLipTip_skele_058
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8452957984058731726
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3083389416052661135}
+  serializedVersion: 2
+  m_LocalRotation: {x: 2.7755576e-17, y: 1.7347235e-17, z: -5.89806e-17, w: -1}
+  m_LocalPosition: {x: 1.6653345e-16, y: 1.110223e-15, z: -0.5308567}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5033336322556605428}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3222826397938251253
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3383052142664428083}
+  m_Layer: 0
+  m_Name: squidShark_rig_Lwing_phy_skele1_023
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3383052142664428083
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3222826397938251253}
+  serializedVersion: 2
+  m_LocalRotation: {x: 5.169879e-26, y: -1.110223e-16, z: -5.74e-42, w: -1}
+  m_LocalPosition: {x: 2.25, y: 2.9976022e-15, z: -2.220446e-15}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5625983661965597462}
+  m_Father: {fileID: 456756133574153764}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3242914891143932768
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5345673834293484227}
+  m_Layer: 0
+  m_Name: squidShark_rig_SquidShark_Skele_02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5345673834293484227
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3242914891143932768}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5324757300673405616}
+  m_Father: {fileID: 3792782067659154354}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3248148898108573531
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7996431437242953652}
+  m_Layer: 0
+  m_Name: squidShark_rig_R_wing6_skele_0107
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7996431437242953652
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3248148898108573531}
+  serializedVersion: 2
+  m_LocalRotation: {x: -3.694961e-16, y: -6.467049e-15, z: -2.3973878e-15, w: -1}
+  m_LocalPosition: {x: 0.42939207, y: -0.0059110527, z: 0.013229679}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8364800710875885716}
+  m_Father: {fileID: 1096656248786094934}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3281062606560830778
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1096656248786094934}
+  m_Layer: 0
+  m_Name: squidShark_rig_Rwing_skele5_0106
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1096656248786094934
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3281062606560830778}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00000004955814, y: 0.055168595, z: 0.000000002738223, w: -0.99847704}
+  m_LocalPosition: {x: -2.249993, y: -0.0000007910982, z: 0.000012244341}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7996431437242953652}
+  m_Father: {fileID: 770411852792021077}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3359516604521932551
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2492746504855488949}
+  m_Layer: 0
+  m_Name: squidShark_rig_spine2_skele_0113
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2492746504855488949
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3359516604521932551}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000000012217096, y: 2.776845e-16, z: -3.7730236e-17, w: -1}
+  m_LocalPosition: {x: 3.041783e-16, y: -0.0029769915, z: 0.19672184}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1169581084427801567}
+  m_Father: {fileID: 2782144514435020620}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3371334204764506239
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2951867670471155616}
+  m_Layer: 0
+  m_Name: squidShark_rig_Squid_shark_Squid_shark
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2951867670471155616
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3371334204764506239}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 149.83994, y: 0, z: -0}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 905032584104376072}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3409429254523448201
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8596629040409925322}
+  m_Layer: 0
+  m_Name: mouth_080
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8596629040409925322
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3409429254523448201}
+  serializedVersion: 2
+  m_LocalRotation: {x: 2.4696561e-10, y: -5.5507043e-16, z: -2.8297677e-17, w: -1}
+  m_LocalPosition: {x: -7.888609e-31, y: -2.7755576e-17, z: -8}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5890829958627669206}
+  m_Father: {fileID: 6741329245816777461}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3480319351944491947
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4172419570722439125}
+  m_Layer: 0
+  m_Name: squidShark_rig_dorsalFin3_skele_06
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4172419570722439125
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3480319351944491947}
+  serializedVersion: 2
+  m_LocalRotation: {x: 2.7755576e-17, y: 0, z: 2.4651903e-32, w: -1}
+  m_LocalPosition: {x: 0, y: -8.881784e-16, z: 1.0693412}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1553516186686553402}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3492809764487467104
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7585907762162463542}
+  m_Layer: 0
+  m_Name: squidShark_rig_spine3_skele_0115
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7585907762162463542
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3492809764487467104}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000000019892064, y: 1.6653343e-16, z: 1.0842023e-19, w: -1}
+  m_LocalPosition: {x: 4.563249e-16, y: 0.006812499, z: -0.4881436}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2941722906637223050}
+  m_Father: {fileID: 1169581084427801567}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3498029344599034363
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5278953826906930141}
+  m_Layer: 0
+  m_Name: Object_12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5278953826906930141
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3498029344599034363}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 149.83995, y: -146.76277, z: 547.8232}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1846912631129153114}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3499435047513275998
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 730648861530572673}
+  m_Layer: 0
+  m_Name: squidShark_rig_lower_right_gum2_skele_040_0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &730648861530572673
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3499435047513275998}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1991438736097837970}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3503050349657484950
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5941372757340609191}
+  m_Layer: 0
+  m_Name: squidShark_rig_L_midLip1_skele_051
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5941372757340609191
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3503050349657484950}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.04091215, y: -0.12865883, z: 0.8265716, w: -0.5463996}
+  m_LocalPosition: {x: 1.0997037, y: -0.48685297, z: -1.5557646}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6525395701917419589}
+  m_Father: {fileID: 6741329245816777461}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3572562112885403868
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5516483181713425518}
+  m_Layer: 0
+  m_Name: squidShark_rig_Ltube2_skele_018
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5516483181713425518
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3572562112885403868}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0.117537394, z: -0, w: -0.99306846}
+  m_LocalPosition: {x: 1.9363922, y: -0.23861448, z: -1.1673338}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5324757300673405616}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3692428870411071885
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1578492668049047044}
+  m_Layer: 0
+  m_Name: squidShark_rig_spine7_skele_0123
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1578492668049047044
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3692428870411071885}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000002202094, y: 2.2204377e-16, z: 1.0842022e-18, w: -1}
+  m_LocalPosition: {x: 4.5563755e-16, y: 0.0110227, z: -0.48808283}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8772250322607023389}
+  m_Father: {fileID: 4270714636632383575}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3722094786229543997
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8399274457512976352}
+  m_Layer: 0
+  m_Name: squidShark_rig_neck_skele_033
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8399274457512976352
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3722094786229543997}
+  serializedVersion: 2
+  m_LocalRotation: {x: -3.469447e-18, y: 2.2193618e-16, z: -1.0408341e-17, w: -1}
+  m_LocalPosition: {x: -3.040684e-16, y: -0.0003176275, z: -1.5467402}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6741329245816777461}
+  m_Father: {fileID: 5324757300673405616}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3806261434330816781
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6370502965823021166}
+  m_Layer: 0
+  m_Name: squidShark_rig_Ltent_skele3_014
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6370502965823021166
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3806261434330816781}
+  serializedVersion: 2
+  m_LocalRotation: {x: 2.7755576e-17, y: -1.009742e-28, z: 5.04871e-29, w: -1}
+  m_LocalPosition: {x: 0, y: -1.7763568e-15, z: 2.575}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 921969953768425582}
+  m_Father: {fileID: 112101252236577617}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3859894906745406912
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 770411852792021077}
+  m_Layer: 0
+  m_Name: squidShark_rig_R_wing5_skele_0105
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &770411852792021077
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3859894906745406912}
+  serializedVersion: 2
+  m_LocalRotation: {x: -1.6132928e-16, y: -9.076073e-15, z: -1.1726731e-15, w: -1}
+  m_LocalPosition: {x: -0.2161185, y: -0.0056762705, z: -0.029487913}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1096656248786094934}
+  m_Father: {fileID: 2116874301484801248}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3860049226509384770
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3662280635789855001}
+  m_Layer: 0
+  m_Name: squidShark_rig_mouthFin1_skele_063
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3662280635789855001
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3860049226509384770}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.23337986, y: 5.7532576e-33, z: -2.3971157e-32, w: -0.97238564}
+  m_LocalPosition: {x: -2.842171e-16, y: 0.1714024, z: -0.23369668}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2902557802313982945}
+  - {fileID: 7615754308163590046}
+  m_Father: {fileID: 4155150687635069748}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3967784568392765380
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7378497493987191448}
+  m_Layer: 0
+  m_Name: squidShark_rig_Lwing_phy_skele5_029
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7378497493987191448
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3967784568392765380}
+  serializedVersion: 2
+  m_LocalRotation: {x: 1.14190216e-17, y: 0.055168595, z: 1.8004627e-17, w: -0.99847704}
+  m_LocalPosition: {x: 2.25, y: 8.65974e-15, z: -7.1054274e-15}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2938031068124817306}
+  m_Father: {fileID: 5434641263600477039}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4057989103634361225
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 456756133574153764}
+  m_Layer: 0
+  m_Name: squidShark_rig_L_wing1_skele_022
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &456756133574153764
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4057989103634361225}
+  serializedVersion: 2
+  m_LocalRotation: {x: -1.7076726e-15, y: 5.551115e-17, z: 3.4779173e-18, w: -1}
+  m_LocalPosition: {x: 2.4504843e-12, y: -2.1116442e-13, z: 1.5241142e-12}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3383052142664428083}
+  m_Father: {fileID: 3317750447864464992}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4127929332723816836
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2154435369188605911}
+  m_Layer: 0
+  m_Name: squidShark_rig_spine5_skele_0119
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2154435369188605911
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4127929332723816836}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000000021770354, y: 2.2204418e-16, z: 8.6736174e-19, w: -1}
+  m_LocalPosition: {x: 3.0409587e-16, y: -0.00458694, z: 0.1967019}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4648859416881624642}
+  m_Father: {fileID: 9138850083393056392}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4174647696723716606
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3207338007574602693}
+  m_Layer: 0
+  m_Name: squidShark_rig_R_eye_skele_067
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3207338007574602693
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4174647696723716606}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.674931, y: 0.7331018, z: 0.056789923, w: 0.061684515}
+  m_LocalPosition: {x: -1.32493, y: -0.3423365, z: -0.82957864}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6741329245816777461}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4262572361261828654
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4270714636632383575}
+  m_Layer: 0
+  m_Name: squidShark_rig_spine_phy7_skele_0122
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4270714636632383575
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4262572361261828654}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.007364228, y: 3.9441976e-31, z: 2.9046757e-33, w: -0.9999729}
+  m_LocalPosition: {x: 1.2621775e-29, y: 1.9539925e-14, z: 2.35}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1578492668049047044}
+  m_Father: {fileID: 506756363962904063}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4269504473459773878
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1846912631129153114}
+  m_Layer: 0
+  m_Name: Object_7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1846912631129153114
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4269504473459773878}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3792782067659154354}
+  - {fileID: 2475114716633715476}
+  - {fileID: 8212996235754359795}
+  - {fileID: 5453879104795241153}
+  - {fileID: 3109182512794303030}
+  - {fileID: 5278953826906930141}
+  - {fileID: 905032584104376072}
+  m_Father: {fileID: 385033404062629657}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4338953559141615011
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2174288649293932883}
+  m_Layer: 0
+  m_Name: squidShark_rig_L_lowerLipTip_skele_050
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2174288649293932883
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4338953559141615011}
+  serializedVersion: 2
+  m_LocalRotation: {x: -2.7755576e-17, y: 2.0816682e-17, z: -8.6736174e-19, w: -1}
+  m_LocalPosition: {x: -1.3877788e-16, y: 0, z: -0.5308567}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4955615328652505183}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4365987174166416526
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3548672209963295951}
+  m_Layer: 0
+  m_Name: squidShark_rig_L_midLipTip_skele_054
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3548672209963295951
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4365987174166416526}
+  serializedVersion: 2
+  m_LocalRotation: {x: 2.7755576e-17, y: 2.7755576e-17, z: 6.071532e-17, w: -1}
+  m_LocalPosition: {x: -2.7755576e-16, y: 1.7763568e-15, z: -0.5308567}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2994134001578843222}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4377893158836575592
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4892591868171119503}
+  m_Layer: 0
+  m_Name: squidShark_rig_lower_right_gum1_skele_039
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4892591868171119503
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4377893158836575592}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.96237797, y: 0.20909314, z: -0.07865698, w: -0.15466657}
+  m_LocalPosition: {x: 0.442898, y: -0.49411556, z: 0.9689542}
+  m_LocalScale: {x: 1, y: 0.99999976, z: 1.0000002}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3359810412632756496}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4458779628516162084
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 905032584104376072}
+  m_Layer: 0
+  m_Name: squidShark_rig_SquidShark_Geo
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &905032584104376072
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4458779628516162084}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2951867670471155616}
+  - {fileID: 9114553063568473160}
+  m_Father: {fileID: 1846912631129153114}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4513602997016447197
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5324757300673405616}
+  m_Layer: 0
+  m_Name: squidShark_rig_root_skele_03
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5324757300673405616
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4513602997016447197}
+  serializedVersion: 2
+  m_LocalRotation: {x: -2.4696561e-10, y: 3.3313425e-16, z: 3.8706018e-17, w: -1}
+  m_LocalPosition: {x: 1.8244104e-16, y: 0.80335927, z: -0.34516266}
+  m_LocalScale: {x: 0.6, y: 0.6, z: 0.6}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5527692233450683912}
+  - {fileID: 6060589330279147999}
+  - {fileID: 5516483181713425518}
+  - {fileID: 1886337749763209327}
+  - {fileID: 1788079730929996479}
+  - {fileID: 3317750447864464992}
+  - {fileID: 8399274457512976352}
+  - {fileID: 2089785800681424417}
+  - {fileID: 2695138778018812766}
+  - {fileID: 2551923421477145604}
+  - {fileID: 4268831710605967773}
+  - {fileID: 5155874952053699318}
+  - {fileID: 3215957127198537289}
+  - {fileID: 7331855125211381720}
+  m_Father: {fileID: 5345673834293484227}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4548381160514004111
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5527692233450683912}
+  m_Layer: 0
+  m_Name: squidShark_rig_dorsalFin1_skele_04
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5527692233450683912
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4548381160514004111}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.38615584, y: 5.605073e-32, z: -6.213221e-33, w: -0.92243356}
+  m_LocalPosition: {x: 0, y: 1.8343667, z: 1.2699968}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1553516186686553402}
+  - {fileID: 3498955131697834548}
+  m_Father: {fileID: 5324757300673405616}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4585047314234829901
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2153041545916186317}
+  m_Layer: 0
+  m_Name: squidShark_rig_L_wing4_skele_00
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2153041545916186317
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4585047314234829901}
+  serializedVersion: 2
+  m_LocalRotation: {x: -8.6736174e-17, y: -9.686696e-15, z: -1.7347235e-18, w: -1}
+  m_LocalPosition: {x: 0.21214826, y: 0.012993412, z: -0.056118}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1374693616492309430}
+  m_Father: {fileID: 9130776077140938172}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4593981792818605410
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2895573346831672916}
+  m_Layer: 0
+  m_Name: squidShark_rig_midLip3_skele_061
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2895573346831672916
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4593981792818605410}
+  serializedVersion: 2
+  m_LocalRotation: {x: 2.7755576e-17, y: 0, z: -2.4651903e-32, w: -1}
+  m_LocalPosition: {x: -1.4210854e-16, y: -8.881784e-16, z: -1.1191432}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3800745900210006407}
+  m_Father: {fileID: 4155150687635069748}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4695839224291604768
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2698575657485452955}
+  m_Layer: 0
+  m_Name: squidShark_rig_L_tent2_skele_011
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2698575657485452955
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4695839224291604768}
+  serializedVersion: 2
+  m_LocalRotation: {x: 2.7755576e-17, y: -1.7846835e-13, z: 2.0290057e-29, w: -1}
+  m_LocalPosition: {x: -5.551115e-16, y: 7.358558e-13, z: -0.34333336}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 99972780023478559}
+  m_Father: {fileID: 7096020054084290574}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4712027549467964736
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414406854654935959}
+  m_Layer: 0
+  m_Name: squidShark_rig_L_wing7_skele_032
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414406854654935959
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4712027549467964736}
+  serializedVersion: 2
+  m_LocalRotation: {x: -4.822531e-16, y: -4.191092e-15, z: -2.7998437e-15, w: -1}
+  m_LocalPosition: {x: 0.21710092, y: 0.004050235, z: 0.05850883}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6743078179915128127}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4745597858695580780
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5033336322556605428}
+  m_Layer: 0
+  m_Name: squidShark_rig_L_upperLip3_skele_057
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5033336322556605428
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4745597858695580780}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.046773378, y: -9.04091e-18, z: 4.472889e-17, w: -0.99890554}
+  m_LocalPosition: {x: 5.551115e-17, y: 4.440892e-16, z: -1.1191432}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8452957984058731726}
+  m_Father: {fileID: 7289855048352245607}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4755856343815679057
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7615754308163590046}
+  m_Layer: 0
+  m_Name: squidShark_rig_mouthFinFlap_skele_066
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7615754308163590046
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4755856343815679057}
+  serializedVersion: 2
+  m_LocalRotation: {x: -4.6259295e-17, y: 4.9303807e-32, z: -9.8607613e-32, w: -1}
+  m_LocalPosition: {x: -7.888609e-31, y: -0.26358512, z: 0.77443695}
+  m_LocalScale: {x: 1, y: 0.59999996, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3662280635789855001}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4861307627636115289
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5617765718225704249}
+  m_Layer: 0
+  m_Name: Sketchfab_model
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5617765718225704249
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4861307627636115289}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: -0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 19.551975, y: 19.551975, z: 19.551975}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5175353420297667933}
+  m_Father: {fileID: 5413043297962555439}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5016010310187378183
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2782144514435020620}
+  m_Layer: 0
+  m_Name: squidShark_rig_spine_phy2_skele_0112
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2782144514435020620
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5016010310187378183}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.007364228, y: 9.8525517e-32, z: 1.1511084e-32, w: -0.9999729}
+  m_LocalPosition: {x: 0, y: -4.6629367e-14, z: 2.35}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2492746504855488949}
+  m_Father: {fileID: 8496432385055452022}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5040830606790041000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2978045966385814013}
+  m_Layer: 0
+  m_Name: squidShark_rig_spineTip_skele_0125
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2978045966385814013
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5040830606790041000}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000000017873225, y: 3.3285007e-16, z: 1.3877787e-17, w: -1}
+  m_LocalPosition: {x: 3.0353293e-16, y: 0.002944161, z: 0.19681871}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8772250322607023389}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5054444859827372965
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3109956887892408286}
+  m_Layer: 0
+  m_Name: squidShark_rig_R_wing1_skele_097
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3109956887892408286
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5054444859827372965}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.249558e-15, y: -2.7755576e-17, z: -3.3938408e-16, w: -1}
+  m_LocalPosition: {x: 0, y: -4.440892e-16, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 110884599453975260}
+  m_Father: {fileID: 5155874952053699318}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5118363084984494515
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1374693616492309430}
+  m_Layer: 0
+  m_Name: squidShark_rig_Lwing_phy_skele4_01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1374693616492309430
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5118363084984494515}
+  serializedVersion: 2
+  m_LocalRotation: {x: 1.7347235e-18, y: 8.326673e-17, z: 8.673617e-18, w: -1}
+  m_LocalPosition: {x: 2.25, y: 3.5527137e-15, z: -1.3322676e-14}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5434641263600477039}
+  m_Father: {fileID: 2153041545916186317}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5146339060774248900
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3569999673161349867}
+  m_Layer: 0
+  m_Name: squidShark_rig_L_upperLip1_skele_055
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3569999673161349867
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5146339060774248900}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.07391388, y: -0.08585474, z: 0.5547602, w: -0.82426137}
+  m_LocalPosition: {x: 1.1512814, y: 0.4455356, z: -1.4966112}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7289855048352245607}
+  m_Father: {fileID: 6741329245816777461}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5184502408613078658
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8364800710875885716}
+  m_Layer: 0
+  m_Name: squidShark_rig_Rwing_skele6_0108
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8364800710875885716
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5184502408613078658}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00000009856192, y: 1.6653345e-16, z: -2.0816665e-17, w: -1}
+  m_LocalPosition: {x: -2.2500017, y: -0.00000003290003, z: -0.00006121611}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 714035341058140005}
+  m_Father: {fileID: 7996431437242953652}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5465197854430069321
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8641603734094090114}
+  m_Layer: 0
+  m_Name: Object_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8641603734094090114
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5465197854430069321}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8027513228846777521}
+  m_Father: {fileID: 5175353420297667933}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5472487684325976398
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4648859416881624642}
+  m_Layer: 0
+  m_Name: squidShark_rig_spine_phy6_skele_0120
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4648859416881624642
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5472487684325976398}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.007364228, y: -5.9162965e-31, z: -4.3570135e-33, w: -0.9999729}
+  m_LocalPosition: {x: 0, y: 4.1744386e-14, z: 2.35}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 506756363962904063}
+  m_Father: {fileID: 2154435369188605911}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5484897183172027906
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 777518972273502697}
+  m_Layer: 0
+  m_Name: squidShark_rig_midLip1_skele_059
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &777518972273502697
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5484897183172027906}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.08005601, y: -1.5799978e-34, z: 1.9672807e-33, w: -0.99679035}
+  m_LocalPosition: {x: 7.888609e-31, y: 1.2195723, z: -1.4952579}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4155150687635069748}
+  m_Father: {fileID: 6741329245816777461}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5548397568126199932
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2286199033284027477}
+  m_Layer: 0
+  m_Name: squidShark_rig_mouthFin3_skele_065
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2286199033284027477
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5548397568126199932}
+  serializedVersion: 2
+  m_LocalRotation: {x: -2.7755576e-17, y: -4.9303807e-32, z: -4.9303807e-32, w: -1}
+  m_LocalPosition: {x: -1.5777218e-30, y: -6.661338e-16, z: 0.33619145}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2902557802313982945}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5655760952190489748
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8425253378059584740}
+  m_Layer: 0
+  m_Name: squidShark_rig_jaw_root_skele_035
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8425253378059584740
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5655760952190489748}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 1.8350058e-33, w: -1}
+  m_LocalPosition: {x: -0.0017799586, y: 0.12350423, z: -0.39569914}
+  m_LocalScale: {x: 0.24621226, y: 0.24621226, z: 0.24621284}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3359810412632756496}
+  - {fileID: 4353692867515161179}
+  m_Father: {fileID: 6741329245816777461}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5656728717712890649
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7357616228472869181}
+  m_Layer: 0
+  m_Name: squidShark_rig_Rtent_skele1_085
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7357616228472869181
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5656728717712890649}
+  serializedVersion: 2
+  m_LocalRotation: {x: -2.7755576e-17, y: -8.271806e-25, z: 1.6543612e-24, w: -1}
+  m_LocalPosition: {x: -7.771561e-16, y: 0.0000043956957, z: -2.5749974}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2339797453684757480}
+  m_Father: {fileID: 3990304830394111321}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5688835147637103479
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 921969953768425582}
+  m_Layer: 0
+  m_Name: squidShark_rig_L_tent4_skele_015
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &921969953768425582
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5688835147637103479}
+  serializedVersion: 2
+  m_LocalRotation: {x: 2.7755576e-17, y: -1.7846835e-13, z: -4.953492e-30, w: -1}
+  m_LocalPosition: {x: -5.551115e-16, y: 7.362999e-13, z: -0.34333336}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 643238445619393726}
+  m_Father: {fileID: 6370502965823021166}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5690732675066808950
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 112101252236577617}
+  m_Layer: 0
+  m_Name: squidShark_rig_L_tent3_skele_013
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &112101252236577617
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5690732675066808950}
+  serializedVersion: 2
+  m_LocalRotation: {x: 2.7755576e-17, y: -1.7846835e-13, z: 4.5533606e-29, w: -1}
+  m_LocalPosition: {x: -6.661338e-16, y: 4.8849813e-13, z: 0.3433333}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6370502965823021166}
+  m_Father: {fileID: 99972780023478559}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5703700975903807424
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7331855125211381720}
+  m_Layer: 0
+  m_Name: squidShark_rig_player_attach_skele_082
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7331855125211381720
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5703700975903807424}
+  serializedVersion: 2
+  m_LocalRotation: {x: 2.3599983e-14, y: 1, z: -0.0000002663161, w: 0.00000008838651}
+  m_LocalPosition: {x: -0.105782665, y: 0.7478439, z: -10.145409}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5324757300673405616}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5715588558923216027
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 52768847827544165}
+  m_Layer: 0
+  m_Name: squidShark_rig_L_tent1_skele_09
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &52768847827544165
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5715588558923216027}
+  serializedVersion: 2
+  m_LocalRotation: {x: 8.326673e-17, y: -1.7846835e-13, z: -1.4860475e-29, w: -1}
+  m_LocalPosition: {x: 3.2374103e-13, y: -1.7230661e-13, z: 1.2967405e-13}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7096020054084290574}
+  m_Father: {fileID: 6060589330279147999}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5765432110201873824
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3990304830394111321}
+  m_Layer: 0
+  m_Name: squidShark_rig_R_tent1_skele_084
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3990304830394111321
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5765432110201873824}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000072079955, y: 0.000000007207995, z: -4.5336634e-16, w: -1}
+  m_LocalPosition: {x: 2.220446e-16, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7357616228472869181}
+  m_Father: {fileID: 2089785800681424417}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5860985249180570198
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5530601525827207021}
+  m_Layer: 0
+  m_Name: squidShark_rig_R_midLip3_skele_074
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5530601525827207021
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5860985249180570198}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.046773378, y: -2.209212e-17, z: 2.675153e-17, w: -0.99890554}
+  m_LocalPosition: {x: 0.0000033537601, y: 0.000001780569, z: 1.1191422}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1702340132776950365}
+  m_Father: {fileID: 5530560212718246486}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5862419502960374705
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3359810412632756496}
+  m_Layer: 0
+  m_Name: squidShark_rig_lower_jaw_base_skele_036
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3359810412632756496
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5862419502960374705}
+  serializedVersion: 2
+  m_LocalRotation: {x: -7.084075e-17, y: 0.98513484, z: -0.17178272, w: -4.980331e-17}
+  m_LocalPosition: {x: -0.0000000013895943, y: -0.3623922, z: -1.8141993}
+  m_LocalScale: {x: 1, y: 0.9999997, z: 1.0000002}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5142298324359507518}
+  - {fileID: 3142850626734217133}
+  - {fileID: 4892591868171119503}
+  - {fileID: 1991438736097837970}
+  m_Father: {fileID: 8425253378059584740}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5878590952482612856
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 99972780023478559}
+  m_Layer: 0
+  m_Name: squidShark_rig_Ltent_skele2_012
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &99972780023478559
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5878590952482612856}
+  serializedVersion: 2
+  m_LocalRotation: {x: 2.7755576e-17, y: 1.009742e-28, z: 3e-45, w: -1}
+  m_LocalPosition: {x: 0, y: -3.5527137e-15, z: 2.575}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 112101252236577617}
+  m_Father: {fileID: 2698575657485452955}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6014122683074864749
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 714035341058140005}
+  m_Layer: 0
+  m_Name: squidShark_rig_R_wing7_skele_0109
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &714035341058140005
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6014122683074864749}
+  serializedVersion: 2
+  m_LocalRotation: {x: -4.822531e-16, y: -4.107825e-15, z: -2.6523922e-15, w: -1}
+  m_LocalPosition: {x: -0.21711455, y: -0.004050175, z: -0.058551542}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8364800710875885716}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6061032474850482014
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8496432385055452022}
+  m_Layer: 0
+  m_Name: squidShark_rig_spine1_skele_0111
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8496432385055452022
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6061032474850482014}
+  serializedVersion: 2
+  m_LocalRotation: {x: -7.5720374e-10, y: 2.7755554e-16, z: 5.421011e-19, w: -1}
+  m_LocalPosition: {x: 3.0411696e-16, y: -0.010183345, z: 0.19663268}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2782144514435020620}
+  m_Father: {fileID: 3215957127198537289}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6144587540407611694
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2994134001578843222}
+  m_Layer: 0
+  m_Name: squidShark_rig_L_midLip3_skele_053
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2994134001578843222
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6144587540407611694}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.046773378, y: 2.8536586e-17, z: -1.6030027e-17, w: -0.99890554}
+  m_LocalPosition: {x: -6.1062266e-16, y: -1.110223e-15, z: -1.1191432}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3548672209963295951}
+  m_Father: {fileID: 6525395701917419589}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6224246366223735857
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2489999029430941093}
+  m_Layer: 0
+  m_Name: squidShark_rig_R_midLip1_skele_072
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2489999029430941093
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6224246366223735857}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.5463996, y: 0.8265716, z: 0.12865882, w: 0.040912163}
+  m_LocalPosition: {x: -1.0997, y: -0.4868525, z: -1.5557686}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5530560212718246486}
+  m_Father: {fileID: 6741329245816777461}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6295177780006720370
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9114553063568473160}
+  m_Layer: 0
+  m_Name: squidShark_rig_Squid_shark_Squid_shark_teeth
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9114553063568473160
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6295177780006720370}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 149.83995, y: -146.06277, z: 544.4532}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 905032584104376072}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6437973641380911190
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6824599183893210848}
+  m_Layer: 0
+  m_Name: squidShark_rig_L_tent5_skele_017
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6824599183893210848
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6437973641380911190}
+  serializedVersion: 2
+  m_LocalRotation: {x: 2.7755576e-17, y: -1.7846835e-13, z: 4.5533606e-29, w: -1}
+  m_LocalPosition: {x: 2.1094237e-15, y: 4.893863e-13, z: 0.34333342}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 643238445619393726}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6446517327773993398
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4919643653563586370}
+  m_Layer: 0
+  m_Name: squidShark_rig_upper_right_gum1_skele_044
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4919643653563586370
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6446517327773993398}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.96237797, y: 0.20909314, z: -0.07865698, w: -0.15466657}
+  m_LocalPosition: {x: -0.442898, y: 0.4941159, z: -0.9689519}
+  m_LocalScale: {x: 1, y: 0.99999976, z: 1.0000002}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4353692867515161179}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6458961875581299728
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7203612327097290335}
+  m_Layer: 0
+  m_Name: squidShark_rig_spine4_skele_0117
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7203612327097290335
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6458961875581299728}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000000023616333, y: 3.3310756e-16, z: -3.8814438e-17, w: -1}
+  m_LocalPosition: {x: 3.041846e-16, y: -0.006568042, z: 0.1966768}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 9138850083393056392}
+  m_Father: {fileID: 2941722906637223050}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6495987956478273085
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5155874952053699318}
+  m_Layer: 0
+  m_Name: squidShark_rig_Rwing_skele_096
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5155874952053699318
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6495987956478273085}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.92273384, y: 2.3601337e-17, z: -0.38543776, w: 5.650119e-17}
+  m_LocalPosition: {x: -1.81408, y: -0.9417734, z: 2.2040813}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3109956887892408286}
+  m_Father: {fileID: 5324757300673405616}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6544053766958168656
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4920854871337591153}
+  m_Layer: 0
+  m_Name: squidShark_rig_R_lowerLipTip_skele_071
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4920854871337591153
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6544053766958168656}
+  serializedVersion: 2
+  m_LocalRotation: {x: 2.7755576e-17, y: -2.94903e-17, z: 2.515349e-17, w: -1}
+  m_LocalPosition: {x: -7.3552275e-16, y: -5.551115e-16, z: 0.53085613}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7381709429400333013}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6695356460690393446
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7651438115799201788}
+  m_Layer: 0
+  m_Name: squidShark_rig_R_tent4_skele_090
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7651438115799201788
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6695356460690393446}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000072079955, y: 0.000000007207995, z: -4.5336634e-16, w: -1}
+  m_LocalPosition: {x: 1.110223e-15, y: -0.0000020979328, z: 0.34333098}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5630141665850651052}
+  m_Father: {fileID: 966990177664657500}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6899322133851455224
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7013075775624279610}
+  m_Layer: 0
+  m_Name: squidShark_rig_head_skele_034_0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7013075775624279610
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6899322133851455224}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6741329245816777461}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7224604210337915723
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5413043297962555439}
+  m_Layer: 0
+  m_Name: shark
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5413043297962555439
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7224604210337915723}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5617765718225704249}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7240849316445446081
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1169581084427801567}
+  m_Layer: 0
+  m_Name: squidShark_rig_spine_phy3_skele_0114
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1169581084427801567
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7240849316445446081}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.007364228, y: -9.8559553e-32, z: -6.888977e-33, w: -0.9999729}
+  m_LocalPosition: {x: -1.5777218e-30, y: 6.994405e-15, z: 2.35}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7585907762162463542}
+  m_Father: {fileID: 2492746504855488949}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7286579392198852905
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1553516186686553402}
+  m_Layer: 0
+  m_Name: squidShark_rig_dorsalFin2_skele_05
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1553516186686553402
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7286579392198852905}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.06445466, y: 5.2379147e-32, z: 4.6023425e-32, w: -0.99792063}
+  m_LocalPosition: {x: 0, y: 3.1086245e-15, z: 1.2998108}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4172419570722439125}
+  m_Father: {fileID: 5527692233450683912}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7344819208830199217
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3318331476724833289}
+  m_Layer: 0
+  m_Name: squidShark_rig_L_wing3_skele_026
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3318331476724833289
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7344819208830199217}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.938894e-18, y: -8.6042284e-16, z: -1.0200174e-15, w: -1}
+  m_LocalPosition: {x: -0.4271855, y: -0.014293124, z: -0.012295342}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 9130776077140938172}
+  m_Father: {fileID: 8261471718031426920}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7429496917053861024
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5175353420297667933}
+  m_Layer: 0
+  m_Name: Squid_Shark.fbx
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5175353420297667933
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7429496917053861024}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.7071068, y: 0, z: -0, w: -0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8641603734094090114}
+  m_Father: {fileID: 5617765718225704249}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7460286937134165962
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5142298324359507518}
+  m_Layer: 0
+  m_Name: squidShark_rig_lower_left_gum2_skele_037
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5142298324359507518
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7460286937134165962}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.15787822, y: 0.21154326, z: 0.3930933, w: -0.880796}
+  m_LocalPosition: {x: -0.864957, y: 0.03868841, z: 0.79454887}
+  m_LocalScale: {x: 0.9999999, y: 0.9999995, z: 1.0000006}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3359810412632756496}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7530748218329446805
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5630141665850651052}
+  m_Layer: 0
+  m_Name: squidShark_rig_Rtent_skele4_091
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5630141665850651052
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7530748218329446805}
+  serializedVersion: 2
+  m_LocalRotation: {x: -8.326673e-17, y: -2.75506e-40, z: -3.3087225e-24, w: -1}
+  m_LocalPosition: {x: 1.6653345e-15, y: 0.0000019574966, z: -2.5749938}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7445155261715527188}
+  m_Father: {fileID: 7651438115799201788}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7585739578315228537
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5530560212718246486}
+  m_Layer: 0
+  m_Name: squidShark_rig_R_midLip2_skele_073
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5530560212718246486
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7585739578315228537}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.027637878, y: -4.3487277e-17, z: 6.647771e-17, w: -0.999618}
+  m_LocalPosition: {x: -0.0000012533249, y: -0.000004621378, z: 1.152564}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5530601525827207021}
+  m_Father: {fileID: 2489999029430941093}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7624205771568358175
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8212996235754359795}
+  - component: {fileID: 8676177109448549716}
+  m_Layer: 0
+  m_Name: Object_11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8212996235754359795
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7624205771568358175}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1846912631129153114}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &8676177109448549716
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7624205771568358175}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: ec25f766c514b1f42a81ea7bf9edb123, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300000, guid: 8b8487f598b6a304aa24ce5450dabe81, type: 2}
+  m_Bones:
+  - {fileID: 3792782067659154354}
+  - {fileID: 5345673834293484227}
+  - {fileID: 5324757300673405616}
+  - {fileID: 5527692233450683912}
+  - {fileID: 1553516186686553402}
+  - {fileID: 4172419570722439125}
+  - {fileID: 3498955131697834548}
+  - {fileID: 6060589330279147999}
+  - {fileID: 52768847827544165}
+  - {fileID: 7096020054084290574}
+  - {fileID: 2698575657485452955}
+  - {fileID: 99972780023478559}
+  - {fileID: 112101252236577617}
+  - {fileID: 6370502965823021166}
+  - {fileID: 921969953768425582}
+  - {fileID: 643238445619393726}
+  - {fileID: 6824599183893210848}
+  - {fileID: 5516483181713425518}
+  - {fileID: 1886337749763209327}
+  - {fileID: 1788079730929996479}
+  - {fileID: 3317750447864464992}
+  - {fileID: 456756133574153764}
+  - {fileID: 3383052142664428083}
+  - {fileID: 5625983661965597462}
+  - {fileID: 8261471718031426920}
+  - {fileID: 3318331476724833289}
+  - {fileID: 9130776077140938172}
+  - {fileID: 2153041545916186317}
+  - {fileID: 1374693616492309430}
+  - {fileID: 5434641263600477039}
+  - {fileID: 7378497493987191448}
+  - {fileID: 2938031068124817306}
+  - {fileID: 6743078179915128127}
+  - {fileID: 4414406854654935959}
+  - {fileID: 8399274457512976352}
+  - {fileID: 6741329245816777461}
+  - {fileID: 8425253378059584740}
+  - {fileID: 3359810412632756496}
+  - {fileID: 5142298324359507518}
+  - {fileID: 3142850626734217133}
+  - {fileID: 4892591868171119503}
+  - {fileID: 1991438736097837970}
+  - {fileID: 730648861530572673}
+  - {fileID: 4353692867515161179}
+  - {fileID: 576258239208928054}
+  - {fileID: 6636899523417960773}
+  - {fileID: 4919643653563586370}
+  - {fileID: 4900749914062322257}
+  - {fileID: 4516556003713881399}
+  - {fileID: 8737427648242719125}
+  - {fileID: 4594048593482093318}
+  - {fileID: 4955615328652505183}
+  - {fileID: 2174288649293932883}
+  - {fileID: 5941372757340609191}
+  - {fileID: 6525395701917419589}
+  - {fileID: 2994134001578843222}
+  - {fileID: 3548672209963295951}
+  - {fileID: 3569999673161349867}
+  - {fileID: 7289855048352245607}
+  - {fileID: 5033336322556605428}
+  - {fileID: 8452957984058731726}
+  - {fileID: 777518972273502697}
+  - {fileID: 4155150687635069748}
+  - {fileID: 2895573346831672916}
+  - {fileID: 3800745900210006407}
+  - {fileID: 3662280635789855001}
+  - {fileID: 2902557802313982945}
+  - {fileID: 2286199033284027477}
+  - {fileID: 7615754308163590046}
+  - {fileID: 3207338007574602693}
+  - {fileID: 8466447023517728788}
+  - {fileID: 7578341387610452166}
+  - {fileID: 7381709429400333013}
+  - {fileID: 4920854871337591153}
+  - {fileID: 2489999029430941093}
+  - {fileID: 5530560212718246486}
+  - {fileID: 5530601525827207021}
+  - {fileID: 1702340132776950365}
+  - {fileID: 2758058806082735128}
+  - {fileID: 2733899669350733865}
+  - {fileID: 7132673684695785610}
+  - {fileID: 6969509795289847126}
+  - {fileID: 8596629040409925322}
+  - {fileID: 5890829958627669206}
+  - {fileID: 7013075775624279610}
+  - {fileID: 2089785800681424417}
+  - {fileID: 3990304830394111321}
+  - {fileID: 7357616228472869181}
+  - {fileID: 2339797453684757480}
+  - {fileID: 1029521462772575074}
+  - {fileID: 4632913986838274537}
+  - {fileID: 966990177664657500}
+  - {fileID: 7651438115799201788}
+  - {fileID: 5630141665850651052}
+  - {fileID: 7445155261715527188}
+  - {fileID: 2695138778018812766}
+  - {fileID: 2551923421477145604}
+  - {fileID: 4268831710605967773}
+  - {fileID: 5155874952053699318}
+  - {fileID: 3109956887892408286}
+  - {fileID: 110884599453975260}
+  - {fileID: 7943594747143531692}
+  - {fileID: 5081645620160145140}
+  - {fileID: 7009488241509566896}
+  - {fileID: 370494297827271300}
+  - {fileID: 6389664693841798908}
+  - {fileID: 2116874301484801248}
+  - {fileID: 770411852792021077}
+  - {fileID: 1096656248786094934}
+  - {fileID: 7996431437242953652}
+  - {fileID: 8364800710875885716}
+  - {fileID: 714035341058140005}
+  - {fileID: 3215957127198537289}
+  - {fileID: 8496432385055452022}
+  - {fileID: 2782144514435020620}
+  - {fileID: 2492746504855488949}
+  - {fileID: 1169581084427801567}
+  - {fileID: 7585907762162463542}
+  - {fileID: 2941722906637223050}
+  - {fileID: 7203612327097290335}
+  - {fileID: 9138850083393056392}
+  - {fileID: 2154435369188605911}
+  - {fileID: 4648859416881624642}
+  - {fileID: 506756363962904063}
+  - {fileID: 4270714636632383575}
+  - {fileID: 1578492668049047044}
+  - {fileID: 8772250322607023389}
+  - {fileID: 2978045966385814013}
+  - {fileID: 7331855125211381720}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 0}
+  m_AABB:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_DirtyAABB: 0
+--- !u!1 &7641630450219248290
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4268831710605967773}
+  m_Layer: 0
+  m_Name: squidShark_rig_Rtube_skele_095
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4268831710605967773
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7641630450219248290}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.99306846, y: -7.19709e-18, z: 0.117537394, w: 6.0807906e-17}
+  m_LocalPosition: {x: -2.07745, y: -0.23861448, z: -0.5798005}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5324757300673405616}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7706803050226182804
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3498955131697834548}
+  m_Layer: 0
+  m_Name: squidShark_rig_dorsalFin_flap_skele_07
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3498955131697834548
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7706803050226182804}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.25885573, y: 1.2762573e-32, z: 4.7623335e-32, w: -0.965916}
+  m_LocalPosition: {x: 3.0411696e-16, y: -1.0297855, z: 1.8450508}
+  m_LocalScale: {x: 1, y: 0.61405647, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5527692233450683912}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7812471592404681451
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3215957127198537289}
+  m_Layer: 0
+  m_Name: squidShark_rig_spine_phy1_skele_0110
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3215957127198537289
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7812471592404681451}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.007364228, y: 4.9277143e-32, z: 3.8022687e-33, w: -0.9999729}
+  m_LocalPosition: {x: 0, y: -3.494427e-14, z: 2.35}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8496432385055452022}
+  m_Father: {fileID: 5324757300673405616}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7960111204571367733
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 370494297827271300}
+  m_Layer: 0
+  m_Name: squidShark_rig_Rwing_skele3_0102
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &370494297827271300
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7960111204571367733}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000012849863, y: 0.04461464, z: 5.738634e-10, w: -0.99900424}
+  m_LocalPosition: {x: -2.2499967, y: 0.00000007846197, z: 0.00000394826}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6389664693841798908}
+  m_Father: {fileID: 7009488241509566896}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8045038513721240743
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1702340132776950365}
+  m_Layer: 0
+  m_Name: squidShark_rig_R_midLipTip_skele_075
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1702340132776950365
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8045038513721240743}
+  serializedVersion: 2
+  m_LocalRotation: {x: 2.7755576e-17, y: -1.3877788e-17, z: -7.2858386e-17, w: -1}
+  m_LocalPosition: {x: -4.9960036e-16, y: 1.7763568e-15, z: 0.53085774}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5530601525827207021}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8100828207170649746
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2339797453684757480}
+  m_Layer: 0
+  m_Name: squidShark_rig_R_tent2_skele_086
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2339797453684757480
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8100828207170649746}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000072079955, y: 0.000000007207995, z: -4.5336634e-16, w: -1}
+  m_LocalPosition: {x: 8.881784e-16, y: 0.0000029007667, z: 0.34333423}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1029521462772575074}
+  m_Father: {fileID: 7357616228472869181}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8207366600961281994
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2089785800681424417}
+  m_Layer: 0
+  m_Name: squidShark_rig_Rtent_skele_083
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2089785800681424417
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8207366600961281994}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.96502393, y: 1.5976934e-33, z: -5.15248e-32, w: -0.26216188}
+  m_LocalPosition: {x: -0.788086, y: -1.4878404, z: 1.2272394}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3990304830394111321}
+  m_Father: {fileID: 5324757300673405616}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8369680535022027026
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1886337749763209327}
+  m_Layer: 0
+  m_Name: squidShark_rig_Ltube3_skele_019
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1886337749763209327
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8369680535022027026}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0.117537394, z: -0, w: -0.99306846}
+  m_LocalPosition: {x: 1.7976775, y: -0.23861448, z: -1.7451212}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5324757300673405616}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8642180483592004481
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5027429092576779482}
+  m_Layer: 0
+  m_Name: SquidShark
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5027429092576779482
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8642180483592004481}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 0, y: 0, z: -0.63}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8879837898478186548}
+  m_Father: {fileID: 8027513228846777521}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8825406721096941468
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4155150687635069748}
+  m_Layer: 0
+  m_Name: squidShark_rig_midLip2_skele_060
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4155150687635069748
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8825406721096941468}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.073785, y: -1.9667765e-31, z: -1.4551525e-32, w: -0.99727416}
+  m_LocalPosition: {x: 2.842171e-16, y: 1.44329e-14, z: -1.1525644}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2895573346831672916}
+  - {fileID: 3662280635789855001}
+  m_Father: {fileID: 777518972273502697}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8831120106017376406
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1991438736097837970}
+  m_Layer: 0
+  m_Name: squidShark_rig_lower_right_gum2_skele_040
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1991438736097837970
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8831120106017376406}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.880796, y: 0.3930933, z: -0.21154328, w: -0.15787823}
+  m_LocalPosition: {x: 0.86495703, y: 0.03869029, z: 0.79454815}
+  m_LocalScale: {x: 0.9999999, y: 0.9999995, z: 1.0000006}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 730648861530572673}
+  m_Father: {fileID: 3359810412632756496}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8877427120894686632
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5453879104795241153}
+  - component: {fileID: 957005629811844729}
+  m_Layer: 0
+  m_Name: Object_13
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5453879104795241153
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8877427120894686632}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1846912631129153114}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &957005629811844729
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8877427120894686632}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 98d80cc203bdfcd4c898b8edf6aac098, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300000, guid: 4da6b5fc08e690d43b1c1627669cb409, type: 2}
+  m_Bones:
+  - {fileID: 3792782067659154354}
+  - {fileID: 5345673834293484227}
+  - {fileID: 5324757300673405616}
+  - {fileID: 5527692233450683912}
+  - {fileID: 1553516186686553402}
+  - {fileID: 4172419570722439125}
+  - {fileID: 3498955131697834548}
+  - {fileID: 6060589330279147999}
+  - {fileID: 52768847827544165}
+  - {fileID: 7096020054084290574}
+  - {fileID: 2698575657485452955}
+  - {fileID: 99972780023478559}
+  - {fileID: 112101252236577617}
+  - {fileID: 6370502965823021166}
+  - {fileID: 921969953768425582}
+  - {fileID: 643238445619393726}
+  - {fileID: 6824599183893210848}
+  - {fileID: 5516483181713425518}
+  - {fileID: 1886337749763209327}
+  - {fileID: 1788079730929996479}
+  - {fileID: 3317750447864464992}
+  - {fileID: 456756133574153764}
+  - {fileID: 3383052142664428083}
+  - {fileID: 5625983661965597462}
+  - {fileID: 8261471718031426920}
+  - {fileID: 3318331476724833289}
+  - {fileID: 9130776077140938172}
+  - {fileID: 2153041545916186317}
+  - {fileID: 1374693616492309430}
+  - {fileID: 5434641263600477039}
+  - {fileID: 7378497493987191448}
+  - {fileID: 2938031068124817306}
+  - {fileID: 6743078179915128127}
+  - {fileID: 4414406854654935959}
+  - {fileID: 8399274457512976352}
+  - {fileID: 6741329245816777461}
+  - {fileID: 8425253378059584740}
+  - {fileID: 3359810412632756496}
+  - {fileID: 5142298324359507518}
+  - {fileID: 3142850626734217133}
+  - {fileID: 4892591868171119503}
+  - {fileID: 1991438736097837970}
+  - {fileID: 730648861530572673}
+  - {fileID: 4353692867515161179}
+  - {fileID: 576258239208928054}
+  - {fileID: 6636899523417960773}
+  - {fileID: 4919643653563586370}
+  - {fileID: 4900749914062322257}
+  - {fileID: 4516556003713881399}
+  - {fileID: 8737427648242719125}
+  - {fileID: 4594048593482093318}
+  - {fileID: 4955615328652505183}
+  - {fileID: 2174288649293932883}
+  - {fileID: 5941372757340609191}
+  - {fileID: 6525395701917419589}
+  - {fileID: 2994134001578843222}
+  - {fileID: 3548672209963295951}
+  - {fileID: 3569999673161349867}
+  - {fileID: 7289855048352245607}
+  - {fileID: 5033336322556605428}
+  - {fileID: 8452957984058731726}
+  - {fileID: 777518972273502697}
+  - {fileID: 4155150687635069748}
+  - {fileID: 2895573346831672916}
+  - {fileID: 3800745900210006407}
+  - {fileID: 3662280635789855001}
+  - {fileID: 2902557802313982945}
+  - {fileID: 2286199033284027477}
+  - {fileID: 7615754308163590046}
+  - {fileID: 3207338007574602693}
+  - {fileID: 8466447023517728788}
+  - {fileID: 7578341387610452166}
+  - {fileID: 7381709429400333013}
+  - {fileID: 4920854871337591153}
+  - {fileID: 2489999029430941093}
+  - {fileID: 5530560212718246486}
+  - {fileID: 5530601525827207021}
+  - {fileID: 1702340132776950365}
+  - {fileID: 2758058806082735128}
+  - {fileID: 2733899669350733865}
+  - {fileID: 7132673684695785610}
+  - {fileID: 6969509795289847126}
+  - {fileID: 8596629040409925322}
+  - {fileID: 5890829958627669206}
+  - {fileID: 7013075775624279610}
+  - {fileID: 2089785800681424417}
+  - {fileID: 3990304830394111321}
+  - {fileID: 7357616228472869181}
+  - {fileID: 2339797453684757480}
+  - {fileID: 1029521462772575074}
+  - {fileID: 4632913986838274537}
+  - {fileID: 966990177664657500}
+  - {fileID: 7651438115799201788}
+  - {fileID: 5630141665850651052}
+  - {fileID: 7445155261715527188}
+  - {fileID: 2695138778018812766}
+  - {fileID: 2551923421477145604}
+  - {fileID: 4268831710605967773}
+  - {fileID: 5155874952053699318}
+  - {fileID: 3109956887892408286}
+  - {fileID: 110884599453975260}
+  - {fileID: 7943594747143531692}
+  - {fileID: 5081645620160145140}
+  - {fileID: 7009488241509566896}
+  - {fileID: 370494297827271300}
+  - {fileID: 6389664693841798908}
+  - {fileID: 2116874301484801248}
+  - {fileID: 770411852792021077}
+  - {fileID: 1096656248786094934}
+  - {fileID: 7996431437242953652}
+  - {fileID: 8364800710875885716}
+  - {fileID: 714035341058140005}
+  - {fileID: 3215957127198537289}
+  - {fileID: 8496432385055452022}
+  - {fileID: 2782144514435020620}
+  - {fileID: 2492746504855488949}
+  - {fileID: 1169581084427801567}
+  - {fileID: 7585907762162463542}
+  - {fileID: 2941722906637223050}
+  - {fileID: 7203612327097290335}
+  - {fileID: 9138850083393056392}
+  - {fileID: 2154435369188605911}
+  - {fileID: 4648859416881624642}
+  - {fileID: 506756363962904063}
+  - {fileID: 4270714636632383575}
+  - {fileID: 1578492668049047044}
+  - {fileID: 8772250322607023389}
+  - {fileID: 2978045966385814013}
+  - {fileID: 7331855125211381720}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 0}
+  m_AABB:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_DirtyAABB: 0
+--- !u!1 &8909360117972066305
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8466447023517728788}
+  m_Layer: 0
+  m_Name: squidShark_rig_R_lowerLip1_skele_068
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8466447023517728788
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8909360117972066305}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.1896227, y: 0.9674044, z: 0.16701584, w: 0.016662914}
+  m_LocalPosition: {x: -0.455512, y: -1.1310444, z: -1.5557686}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7578341387610452166}
+  m_Father: {fileID: 6741329245816777461}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8956946315674861930
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6743078179915128127}
+  m_Layer: 0
+  m_Name: squidShark_rig_Lwing_phy_skele6_031
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6743078179915128127
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8956946315674861930}
+  serializedVersion: 2
+  m_LocalRotation: {x: -1.0408341e-17, y: -8.326673e-17, z: -8.673617e-18, w: -1}
+  m_LocalPosition: {x: 2.25, y: -3.4416914e-14, z: -4.8849813e-14}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4414406854654935959}
+  m_Father: {fileID: 2938031068124817306}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9066318485838961646
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7943594747143531692}
+  m_Layer: 0
+  m_Name: squidShark_rig_R_wing2_skele_099
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7943594747143531692
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9066318485838961646}
+  serializedVersion: 2
+  m_LocalRotation: {x: 1.6599135e-16, y: -4.9960036e-16, z: -3.994023e-16, w: -1}
+  m_LocalPosition: {x: -0.21569072, y: 0.004762163, z: 0.0012456373}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5081645620160145140}
+  m_Father: {fileID: 110884599453975260}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9126567988569768640
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6636899523417960773}
+  m_Layer: 0
+  m_Name: squidShark_rig_upper_left_gum2_skele_043
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6636899523417960773
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9126567988569768640}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.15787822, y: 0.21154326, z: 0.3930933, w: -0.880796}
+  m_LocalPosition: {x: 0.86495674, y: -0.038689584, z: -0.7945505}
+  m_LocalScale: {x: 0.9999999, y: 0.9999995, z: 1.0000006}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4353692867515161179}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9176077621687482598
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 576258239208928054}
+  m_Layer: 0
+  m_Name: squidShark_rig_upper_left_gum1_skele_042
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &576258239208928054
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9176077621687482598}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.15466659, y: 0.07865699, z: 0.20909314, w: -0.962378}
+  m_LocalPosition: {x: 0.44289786, y: 0.49411067, z: -0.96895283}
+  m_LocalScale: {x: 1, y: 0.99999976, z: 1.0000002}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4353692867515161179}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9213442044727832443
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7009488241509566896}
+  m_Layer: 0
+  m_Name: squidShark_rig_R_wing3_skele_0101
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7009488241509566896
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9213442044727832443}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000010536712, y: 1.3045121e-15, z: -2.3731017e-15, w: -1}
+  m_LocalPosition: {x: 0.42716175, y: 0.014294606, z: 0.0127322}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 370494297827271300}
+  m_Father: {fileID: 5081645620160145140}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
